@@ -33,5 +33,6 @@ Para usar la API, puedes usar una herramienta de cliente HTTP como Postman
 
 
 Diagrama ER BD
+
 ![BDapi](https://github.com/EdissonFrancisco/api/assets/109987805/4d7d1488-f5b1-48a5-b8ee-aa87e88bf2a7)
 
